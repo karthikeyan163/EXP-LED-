@@ -56,14 +56,24 @@ END
 
 ## Output 
 
+
+
 <img width="941" height="673" alt="Screenshot 2026-10-27 133953" src="https://github.com/user-attachments/assets/4e6a3c6f-fe96-4214-a9d0-ca5106698f90" />
+
+
 
 
 
 
 <img width="976" height="613" alt="Screenshot 2026-10-27 133922" src="https://github.com/user-attachments/assets/31ed9c0d-6132-4ec3-9247-424858d13bbd" />
 
+
+
+
 ## Result
   The LED blinking program using the 8051 microcontroller was implemented and verified successfully.
 
 
+
+
+..
